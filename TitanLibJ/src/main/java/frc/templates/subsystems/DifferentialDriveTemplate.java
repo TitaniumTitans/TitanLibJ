@@ -5,6 +5,9 @@
 
 //TODO Assigned to Raffy
 
+/* In this class you will need to make the bare bone of a differential drive. Along with the 4 motors
+it will also need to have a gyro and kinematics/odometry. */
+
 
 package frc.templates.subsystems;
 

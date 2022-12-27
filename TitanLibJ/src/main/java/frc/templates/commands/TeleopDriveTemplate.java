@@ -5,6 +5,9 @@
 
 //TODO Assigned to Raffy
 
+/* Again here it's just the core basics of a command, this shouldn't to anything fancy, simply get input 
+from an xbox controller and drive the differential drive */
+
 package frc.templates.commands;
 
 import edu.wpi.first.wpilibj2.command.CommandBase;
