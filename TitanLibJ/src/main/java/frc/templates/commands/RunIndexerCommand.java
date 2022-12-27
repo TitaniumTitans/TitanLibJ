@@ -4,6 +4,9 @@
 
 //TODO Assigned to Drew
 
+/* this should be another very simple command, it should extend the intake
+when run, and when stopped should safely stop and retract the intake */
+
 package frc.templates.commands;
 
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
